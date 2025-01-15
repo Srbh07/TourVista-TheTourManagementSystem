@@ -1,0 +1,5 @@
+abc@gmail.com,103,Snowfalls,4000,3,A beautifull snowfall
+sahil@gmail.com,102,Mountains,7000,7,Explore the mountains
+golu@gmail.com,105,Village,3000,4,Village life
+golu@123,103,Snowfalls,4000,3,A beautifull snowfall
+102,105,Village,3000,4,Village life

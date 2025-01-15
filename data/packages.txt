@@ -1,0 +1,6 @@
+101,Beaches,5000,5,A relaxing beach vacation
+102,Mountains,7000,7,Explore the mountains
+103,Snowfalls,4000,3,A beautifull snowfall
+104,Desert,7000,4,desert with sunset
+105,Village,3000,4,Village life
+106,Forest,4000,2,A greenary forest
